@@ -10,3 +10,6 @@
 3. 配置文件是一个json文件，需要把\*\*\*替换为指定内容，userId是用户名，password是密码
 4. 在登陆过程中发生错误时，会返回服务器的消息，但只停留2s。并且会打开配置文件，要求你检查一遍
 5. 成功登陆时会返回用户序列号userIndex
+
+Release
+[v0----点击下载](https://github.com/Yuan-byte/autologin/raw/main/login.exe)
