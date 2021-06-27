@@ -154,7 +154,7 @@ func (loginer *Loginer) PostInfo() string {
 func (loginer *Loginer) ShowDialog() {
 	fmt.Println("登陆过程发生错误，请检查用户名和密码是否正确")
 	fmt.Println("如果无法解决问题，请联系开发者")
-	fmt.Println("Gmail : wjw9826@gmail.com")
+	fmt.Println("Gmail : ********")
 }
 
 func OpenDir(path string) {
